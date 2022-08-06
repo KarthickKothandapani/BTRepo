@@ -1,1 +1,2 @@
 s This is my first file to explore GIT bash
+Added new line for jenkins 
